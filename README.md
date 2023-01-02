@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java, SQL, JavaScript.
 - 💞️ I’m looking to collaborate on work jointly.
 - 📫 How to reach me ...
-
 <!---
 akashyadavazm/akashyadavazm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
