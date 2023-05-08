@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashyadavazm
 - 👀 I’m interested in a role of software development.
-- 🌱 I’m currently learning Java, SQL, JavaScript.
+- 🌱 I’m currently learning Java, SQL, JavaScript, ReactNative and SpringBoot.
 - 💞️ I’m looking to collaborate on work jointly.
 - 📫 How to reach me ...
 <!---
