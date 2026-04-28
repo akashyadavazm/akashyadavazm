@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash Yadav | Senior React Native Developer
 
-Experienced **Mobile Engineer** with 2+ years of expertise in building high-performance, scalable applications from scratch. I specialize in the React Native ecosystem, bridging the gap between JavaScript and Native code (Java/Swift) to deliver seamless user experiences.
+Experienced **Mobile Engineer** with 2+ years of expertise in building high-performance, scalable applications from scratch. I specialize in the React Native ecosystem, bridging the gap between TypeScript and Native code (Java/Swift) to deliver seamless user experiences.
 
 ### 🚀 The Numbers
 * **07** Production Apps Deployed.
