@@ -44,10 +44,10 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 ---
 
 ### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashyadavazm&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Akash's Stats" height="150" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashyadavazm&theme=radical&show_icons=true&hide_border=true" alt="Akash's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavazm&theme=radical&layout=compact&hide_border=true" alt="Top Langs" height="150" />
-</p>
+</div>
 
 ---
 
@@ -64,6 +64,6 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=akashyadavazm&icon=0&color=0" alt="Visit Count" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashyadavazm&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
