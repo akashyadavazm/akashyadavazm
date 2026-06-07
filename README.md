@@ -46,8 +46,8 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashyadavazm&theme=radical&show_icons=true&hide_border=true" alt="Akash's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavazm&theme=radical&layout=compact&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akashyadavazm&theme=radical&show_icons=true&hide_border=true&v=1" alt="Akash's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavazm&theme=radical&layout=compact&hide_border=true&v=1" alt="Top Langs" height="150" />
 </div>
 
 ---
