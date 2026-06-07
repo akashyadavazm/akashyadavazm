@@ -16,12 +16,13 @@ Experienced **Mobile Engineer** with 2+ years of expertise in building high-perf
 * [**Go2Pro**](https://apps.apple.com/in/app/go2pro/id6753179801) - Professional Sports Management
 * [**Lutinx**](https://apps.apple.com/in/app/lutinx/id6758876652) - Digital Asset & Identity Management
 * [**Go2Pro Business**](https://apps.apple.com/in/app/go2pro-business/id6760334346) - Enterprise Solutions
+* [**Yes Indeed**](https://appstoreconnect.apple.com/apps/yesind/id6768217562) - YesIndeed Wishes
 
 #### **Google Play Store**
-* [**Go2Football**](https://play.google.com/store/apps/details?id=com.lutinx.go2football)
-* [**G2P Scout**](https://play.google.com/store/apps/details?id=com.lutinx.g2pscout)
-* [**Lutinx Mobile**](https://play.google.com/store/apps/details?id=com.lutinx.app)
-
+* [**Go2 Football**](https://play.google.com/store/apps/details?id=com.lutinx.go2football)
+* [**Lutinx**](https://play.google.com/store/apps/details?id=com.lutinx.app)
+* [**Go2 Business**](https://play.google.com/store/apps/details?id=com.lutinx.g2pscout)
+* [**Yes Indeed**](https://play.google.com/store/apps/details?id=com.yesindeed.app)
 ---
 
 ### 💻 Tech Stack
