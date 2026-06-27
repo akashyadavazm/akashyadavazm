@@ -14,6 +14,7 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 - **Performance Focused:** Proven track record in scaling applications, optimizing performance, and ensuring seamless cross-platform functionality.
 
 ---
+https://apps.apple.com/in/app/yesindeed/id6768217562 
 
 ### 📱 Production Apps
 
@@ -21,7 +22,7 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 * [**Go2Pro**](https://apps.apple.com/in/app/go2pro/id6753179801) — Professional Sports Management platform.
 * [**Lutinx**](https://apps.apple.com/in/app/lutinx/id6758876652) — Digital Asset & Identity Management architecture.
 * [**Go2Pro Business**](https://apps.apple.com/in/app/go2pro-business/id6760334346) — Enterprise-level business solutions.
-* **Yes Indeed** *(Currently in Review)* — YesIndeed Wishes platform.
+* [**Yes Indeed**](https://apps.apple.com/in/app/yesindeed/id6768217562) — Fulfill Dreams.
 
 #### 🤖 Google Play Store
 * [**Go2 Football**](https://play.google.com/store/apps/details?id=com.lutinx.go2football) — Scalable sports engagement app.
