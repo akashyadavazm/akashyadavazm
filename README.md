@@ -14,7 +14,6 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 - **Performance Focused:** Proven track record in scaling applications, optimizing performance, and ensuring seamless cross-platform functionality.
 
 ---
-https://apps.apple.com/in/app/yesindeed/id6768217562 
 
 ### 📱 Production Apps
 
