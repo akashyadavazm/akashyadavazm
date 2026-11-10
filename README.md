@@ -28,7 +28,8 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 * [**Lutinx**](https://play.google.com/store/apps/details?id=com.lutinx.app) — Secure identity management for Android.
 * [**Go2 Business**](https://play.google.com/store/apps/details?id=com.lutinx.g2pscout) — B2B sports talent discovery.
 * [**Yes Indeed**](https://play.google.com/store/apps/details?id=com.yesindeed.app) — Seamless Android experience for the YesIndeed ecosystem.
-
+* [**Bitmoya**](https://play.google.com/store/apps/details?id=com.bitmoya) — Bitmoya Wallet is a multi-chain decentralized wallet that allows users to securely store, send, receive, and swap cryptocurrencies. All-in-one Web3 crypto wallet.
+* [**Aksumbase**](https://play.google.com/store/apps/details?id=com.lutinx.aksumbase) — AksumBase connects you with verified properties and trusted real estate professionals across the globe.
 ---
 
 ### 🛠️ Tech Stack & Arsenal
@@ -43,12 +44,12 @@ Experienced <b>Mobile Engineer</b> with a proven track record of building, scali
 
 ---
 
-### 📊 GitHub Insights
 
-<div align="center">
+<!-- <div align="center">
+### 📊 GitHub Insights
   <img src="https://github-readme-stats.vercel.app/api?username=akashyadavazm&theme=radical&show_icons=true&hide_border=true&v=1" alt="Akash's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadavazm&theme=radical&layout=compact&hide_border=true&v=1" alt="Top Langs" height="150" />
-</div>
+</div> -->
 
 ---
 
