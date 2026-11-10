@@ -24,7 +24,7 @@ Experienced <b>Mobile Engineer</b> with a proven track record of architecting, b
 - [**Yes Indeed**](https://apps.apple.com/in/app/yesindeed/id6768217562) — Personal progression and goal-tracking platform.
 - **Aksumbase** *(Upcoming)* — Global verified real estate and property marketplace.
 - **Bitmoya** *(Upcoming)* — Multi-chain Web3 decentralized cryptocurrency wallet.
-- **Simplest** *(Upcoming)* — Productivity and streamlined utility ecosystem.
+- **Simplebit** *(Upcoming)* — Productivity and streamlined utility ecosystem.
 
 #### 🤖 Google Play Store
 - [**Go2 Football**](https://play.google.com/store/apps/details?id=com.lutinx.go2football) — Real-time athletic engagement and tracking platform.
@@ -33,7 +33,7 @@ Experienced <b>Mobile Engineer</b> with a proven track record of architecting, b
 - [**Yes Indeed**](https://play.google.com/store/apps/details?id=com.yesindeed.app) — Goal milestone ecosystem for Android.
 - [**Bitmoya**](https://play.google.com/store/apps/details?id=com.bitmoya) — Multi-chain decentralized Web3 crypto wallet (Store, Swap & Transfer).
 - [**Aksumbase**](https://play.google.com/store/apps/details?id=com.lutinx.aksumbase) — Verified global real estate discovery and broker network.
-- **Simplest** *(Upcoming)* — Streamlined workflow and everyday productivity application.
+- **Simplebit** *(Upcoming)* — Streamlined workflow and everyday productivity application.
 
 ---
 
